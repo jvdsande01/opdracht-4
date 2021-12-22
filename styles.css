@@ -1,0 +1,16 @@
+div.rounded {
+	background-color: rgb(167, 159, 159);
+	color: rgb(61, 57, 57);
+	font-weight: bold;
+	padding: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px; 
+}  .black-border {
+	border: 5px solid black;
+}  #green-background {
+	background-color: green;
+}img.photo {
+	border: 1px solid #999;
+	background-color: #fcfcfc;
+	padding: 5px;
+}
